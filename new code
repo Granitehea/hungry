@@ -1,2 +1,4 @@
 class box extends BaseClass{
-constructor
+constructor(x,y,width,height){
+}
+}
